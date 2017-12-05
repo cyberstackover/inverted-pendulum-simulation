@@ -1,0 +1,101 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: InvertedPendulumFix - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\herwin\AppData\Local\Temp\RSPBA05.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/InvertedPendulumFix.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Project Semester 4\InvertedPendulumFix\InvertedPendulumFixDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\herwin\AppData\Local\Temp\RSPBA05.tmp" 
+Creating temporary file "C:\Users\herwin\AppData\Local\Temp\RSPBA06.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/InvertedPendulumFix.pdb" /debug /machine:I386 /out:"Debug/InvertedPendulumFix.exe" /pdbtype:sept 
+".\Debug\areaseries.obj"
+".\Debug\arrowseries.obj"
+".\Debug\aspect.obj"
+".\Debug\axes.obj"
+".\Debug\axis.obj"
+".\Debug\axislabels.obj"
+".\Debug\axistitle.obj"
+".\Debug\bar3dseries.obj"
+".\Debug\barseries.obj"
+".\Debug\bezierseries.obj"
+".\Debug\brush.obj"
+".\Debug\bubbleseries.obj"
+".\Debug\candleseries.obj"
+".\Debug\canvas.obj"
+".\Debug\chartfont.obj"
+".\Debug\circlelabels.obj"
+".\Debug\clockseries.obj"
+".\Debug\contourseries.obj"
+".\Debug\curvefittingfunction.obj"
+".\Debug\customseries.obj"
+".\Debug\environment.obj"
+".\Debug\errorbarseries.obj"
+".\Debug\errorseries.obj"
+".\Debug\expavgfunction.obj"
+".\Debug\explodedslices.obj"
+".\Debug\export.obj"
+".\Debug\fastlineseries.obj"
+".\Debug\ganttseries.obj"
+".\Debug\gradient.obj"
+".\Debug\horizbarseries.obj"
+".\Debug\imagebarseries.obj"
+".\Debug\import.obj"
+".\Debug\InvertedPendulumFix.obj"
+".\Debug\InvertedPendulumFixDlg.obj"
+".\Debug\legend.obj"
+".\Debug\marks.obj"
+".\Debug\movingavgfunction.obj"
+".\Debug\page.obj"
+".\Debug\panel.obj"
+".\Debug\pen.obj"
+".\Debug\pieotherslice.obj"
+".\Debug\pieseries.obj"
+".\Debug\point3dseries.obj"
+".\Debug\pointer.obj"
+".\Debug\pointseries.obj"
+".\Debug\polarseries.obj"
+".\Debug\printer.obj"
+".\Debug\radarseries.obj"
+".\Debug\scroll.obj"
+".\Debug\series.obj"
+".\Debug\seriesmarkposition.obj"
+".\Debug\seriesmarkspositions.obj"
+".\Debug\shapeseries.obj"
+".\Debug\StdAfx.obj"
+".\Debug\stddeviationfunction.obj"
+".\Debug\strings.obj"
+".\Debug\surfaceseries.obj"
+".\Debug\tchart.obj"
+".\Debug\teefunction.obj"
+".\Debug\teeopengl.obj"
+".\Debug\teepoint2d.obj"
+".\Debug\teepoint3d.obj"
+".\Debug\titles.obj"
+".\Debug\valuelist.obj"
+".\Debug\volumeseries.obj"
+".\Debug\wall.obj"
+".\Debug\walls.obj"
+".\Debug\windroseseries.obj"
+".\Debug\zoom.obj"
+".\Debug\InvertedPendulumFix.res"
+]
+Creating command line "link.exe @C:\Users\herwin\AppData\Local\Temp\RSPBA06.tmp"
+<h3>Output Window</h3>
+Compiling...
+InvertedPendulumFixDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+InvertedPendulumFix.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
